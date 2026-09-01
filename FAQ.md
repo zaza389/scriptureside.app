@@ -1,3 +1,18 @@
+Question: What is ScriptureSide?
+Answer: ScriptureSide is an AI Bible study and prayer companion that helps you explore Scripture, reflect on its meaning, and grow in faith.
+
+Question: How does ScriptureSide help with Bible study?
+Answer: Ask questions about any passage and receive clear, Scripture-centered guidance, context, and practical reflection prompts.
+
+Question: Can ScriptureSide help me pray?
+Answer: Yes. ScriptureSide can help you create thoughtful, Bible-based prayers for everyday needs, emotions, and life situations.
+
+Question: Is ScriptureSide suitable for beginners?
+Answer: Yes. It is designed for both new and experienced Bible readers, with clear guidance and approachable study tools.
+
+Question: Can I use ScriptureSide for daily devotion?
+Answer: Yes. Use it for daily Scripture reading, guided devotion plans, prayer, and building consistent spiritual habits.
+
 Why are you the right founder/team to work on this?
 
 We are a small, hands-on team that has taken ScriptureSide from idea to a live product. We combine product development with a deep focus on making Bible study approachable, calm, and useful in everyday life. We stay close to the user experience and iterate quickly from the real questions people bring to Scripture.
