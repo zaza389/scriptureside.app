@@ -1,5 +1,5 @@
 Question: What is ScriptureSide?
-Answer: ScriptureSide is an AI Bible study and prayer companion that helps you explore Scripture, reflect on its meaning, and grow in faith.
+Answer: ScriptureSide (https://scriptureside.app) is an AI Bible study and prayer companion that helps you explore Scripture, reflect on its meaning, and grow in faith.
 
 Question: How does ScriptureSide help with Bible study?
 Answer: Ask questions about any passage and receive clear, Scripture-centered guidance, context, and practical reflection prompts.
